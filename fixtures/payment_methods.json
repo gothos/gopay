@@ -1,0 +1,112 @@
+[
+    {
+        "pk": 1,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 1,
+            "visible": true,
+            "fee": "0.00",
+            "name": "ePlatby",
+            "gopay_code": "cz_rb"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 1,
+            "visible": true,
+            "fee": "0.00",
+            "name": "platebn\u00ed karta",
+            "gopay_code": "cz_cs_c"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 3,
+            "visible": true,
+            "fee": "0.00",
+            "name": "FIO Banka",
+            "gopay_code": "cz_fb"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 4,
+            "visible": true,
+            "fee": "0.00",
+            "name": "GE Money",
+            "gopay_code": "cz_ge"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 5,
+            "visible": true,
+            "fee": "0.00",
+            "name": "GoPay pen\u011b\u017eenka",
+            "gopay_code": "cz_gp_w"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 6,
+            "visible": true,
+            "fee": "0.00",
+            "name": "MoneyBrookers",
+            "gopay_code": "eu_mb_w"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 7,
+            "visible": true,
+            "fee": "0.00",
+            "name": "mPen\u00edze",
+            "gopay_code": "cz_mb"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 8,
+            "visible": true,
+            "fee": "50.00",
+            "name": "Premium SMS",
+            "gopay_code": "eu_pr_sms"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 10,
+            "visible": true,
+            "fee": "0.00",
+            "name": "Volskbank",
+            "gopay_code": "cz_vb"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "gopay.paymentmethod",
+        "fields": {
+            "sort": 11,
+            "visible": true,
+            "fee": "0.00",
+            "name": "Bankovn\u00ed p\u0159evod",
+            "gopay_code": "f_bank"
+        }
+    }
+]
